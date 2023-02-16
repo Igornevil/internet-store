@@ -1,0 +1,274 @@
+[
+    {
+        "_id": "67rdca3eeb7f6fgeed471815",
+        "name": "Nokia 3310",
+        "qualities": [
+            {
+                "_id": "67rdca3eeb7f6fgeed471198",
+                "name": "Кнопочный",
+                "color": "primary"
+            },
+            {
+                "_id": "67rdca3eeb7f6fgeed4711012",
+                "name": "Поддержка двух симкарт",
+                "color": "success"
+            }
+        ],
+        "brend": { "_id": "2", "name": "Nokia" },
+        "price": 1000,
+        "sales": 36,
+        "rate": 2.5,
+        "bookmark": false
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471816",
+        "name": "LG G7",
+        "qualities": [
+            {
+                "_id": "67rdca3eeb7f6fgeed4711012",
+                "name": "Поддержка 5g сетей",
+                "color": "success"
+            },
+            {
+                "_id": "67rdca3eeb7f6fgeed471100",
+                "name": "Сенсорный",
+                "color": "secondary"
+            }
+        ],
+        "brend": { "_id": "3", "name": "LG" },
+        "price": 2000,
+        "sales": 15,
+        "rate": 2.5,
+        "bookmark": false
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471817",
+        "name": "Nokia S7",
+        "qualities": [
+            {
+                "_id": "67rdca3eeb7f6fgeed4711012",
+                "name": "Поддержка 5g сетей",
+                "color": "success"
+            }
+        ],
+        "brend": { "_id": "2", "name": "Nokia" },
+        "price": 3500,
+        "sales": 247,
+        "rate": 3.5,
+        "bookmark": false
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471818",
+        "name": "Samsung G20",
+        "qualities": [
+            {
+                "_id": "67rdca3eeb7f6fgeed4711012",
+                "name": "Поддержка 5g сетей",
+                "color": "success"
+            },
+            {
+                "_id": "67rdca3eeb7f6fgeed471100",
+                "name": "Сенсорный",
+                "color": "secondary"
+            },
+            {
+                "_id": "67rdca3eeb7f6fgeed4711012",
+                "name": "Поддержка двух симкарт",
+                "color": "success"
+            }
+        ],
+        "brend": { "_id": "1", "name": "Samsung" },
+        "price": 15500,
+        "sales": 148,
+        "rate": 3.5,
+        "bookmark": false
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471819",
+        "name": "Iphone 12Pro",
+        "qualities": [
+            {
+                "_id": "67rdca3eeb7f6fgeed4711012",
+                "name": "Поддержка двух симкарт",
+                "color": "success"
+            },
+            {
+                "_id": "67rdca3eeb7f6fgeed471100",
+                "name": "Сенсорный",
+                "color": "secondary"
+            },
+            {
+                "_id": "67rdca3eeb7f6fgeed4711012",
+                "name": "Поддержка 5g сетей",
+                "color": "success"
+            }
+        ],
+        "brend": { "_id": "4", "name": "Iphone" },
+        "price": 35000,
+        "sales": 37,
+        "rate": 4.6,
+        "bookmark": false
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471820",
+        "name": "Iphone 11ProMax",
+        "qualities": [
+            {
+                "_id": "67rdca3eeb7f6fgeed4711012",
+                "name": "Поддержка двух симкарт",
+                "color": "success"
+            },
+            {
+                "_id": "67rdca3eeb7f6fgeed471100",
+                "name": "Сенсорный",
+                "color": "secondary"
+            },
+            {
+                "_id": "67rdca3eeb7f6fgeed4711012",
+                "name": "Поддержка 5g сетей",
+                "color": "success"
+            }
+        ],
+        "brend": { "_id": "4", "name": "Iphone" },
+        "price": 28000,
+        "sales": 147,
+        "rate": 3.5,
+        "bookmark": false
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471821",
+        "name": "Iphone 7",
+        "qualities": [
+            {
+                "_id": "67rdca3eeb7f6fgeed471100",
+                "name": "Сенсорный",
+                "color": "secondary"
+            },
+            {
+                "_id": "67rdca3eeb7f6fgeed4711012",
+                "name": "Поддержка 5g сетей",
+                "color": "success"
+            }
+        ],
+        "brend": { "_id": "4", "name": "Iphone" },
+        "price": 14000,
+        "sales": 72,
+        "rate": 3.5,
+        "bookmark": false
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471822",
+        "name": "Huawei p20 pro",
+        "qualities": [
+            {
+                "_id": "67rdca3eeb7f6fgeed4711012",
+                "name": "Поддержка двух симкарт",
+                "color": "success"
+            },
+            {
+                "_id": "67rdca3eeb7f6fgeed471100",
+                "name": "Сенсорный",
+                "color": "secondary"
+            },
+            {
+                "_id": "67rdca3eeb7f6fgeed4711012",
+                "name": "Поддержка 5g сетей",
+                "color": "success"
+            }
+        ],
+        "brend": { "_id": "5", "name": "Huawei" },
+        "price": 19000,
+        "sales": 72,
+        "rate": 5,
+        "bookmark": false
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471823",
+        "name": "Huawei p40",
+        "qualities": [
+            {
+                "_id": "67rdca3eeb7f6fgeed4711012",
+                "name": "Поддержка двух симкарт",
+                "color": "success"
+            },
+            {
+                "_id": "67rdca3eeb7f6fgeed471100",
+                "name": "Сенсорный",
+                "color": "secondary"
+            },
+            {
+                "_id": "67rdca3eeb7f6fgeed4711012",
+                "name": "Поддержка 5g сетей",
+                "color": "success"
+            }
+        ],
+        "brend": { "_id": "5", "name": "Huawei" },
+        "price": 25000,
+        "sales": 17,
+        "rate": 4.5,
+        "bookmark": false
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471824",
+        "name": "HTC PlusOne",
+        "qualities": [
+            {
+                "_id": "67rdca3eeb7f6fgeed471100",
+                "name": "Сенсорный",
+                "color": "secondary"
+            },
+            {
+                "_id": "67rdca3eeb7f6fgeed4711012",
+                "name": "Поддержка 5g сетей",
+                "color": "success"
+            }
+        ],
+        "brend": { "_id": "6", "name": "HTC" },
+        "price": 10000,
+        "sales": 17,
+        "rate": 4.5,
+        "bookmark": false
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47181f",
+        "name": "Samsung Edge",
+        "qualities": [
+            {
+                "_id": "67rdca3eeb7f6fgeed4711012",
+                "name": "Поддержка двух симкарт",
+                "color": "success"
+            },
+            {
+                "_id": "67rdca3eeb7f6fgeed471100",
+                "name": "Сенсорный",
+                "color": "secondary"
+            }
+        ],
+        "brend": { "_id": "1", "name": "Samsung" },
+        "price": 13000,
+        "sales": 434,
+        "rate": 3.5,
+        "bookmark": false
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47181r",
+        "name": "Xiaomi n20",
+        "qualities": [
+            {
+                "_id": "67rdca3eeb7f6fgeed471100",
+                "name": "Сенсорный",
+                "color": "secondary"
+            },
+            {
+                "_id": "67rdca3eeb7f6fgeed4711012",
+                "name": "Поддержка 5g сетей",
+                "color": "success"
+            }
+        ],
+        "brend": { "_id": "7", "name": "Xiaomi" },
+        "price": 13000,
+        "sales": 434,
+        "rate": 5,
+        "bookmark": false
+    }
+]
