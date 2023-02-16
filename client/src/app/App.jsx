@@ -11,7 +11,6 @@ import Phone from "./components/ui/phone";
 import Notebook from "./components/ui/notebook";
 import Footer from "./components/ui/footer";
 import ProductDetail from "./components/common/product/productDetails";
-// import Test from "./components/common/product/test";
 
 function App() {
     return (
@@ -25,9 +24,7 @@ function App() {
                 <Route path="/login" element={<Login />} />
                 <Route path="/phone" element={<Phone />} />
                 <Route path="/notebook" element={<Notebook />} />
-                {/* <Route path="/product">
-                    <Route path=":id" element={<Test />} />
-                </Route> */}
+
                 <Route path="/product/:id" element={<ProductDetail />} />
                 <Route path="/" element={<Main />} />
 

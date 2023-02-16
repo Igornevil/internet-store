@@ -12,9 +12,7 @@ import { addOrder } from "../../../store/order";
 
 const ProductDetail = () => {
     const dispatch = useDispatch();
-    const papa = useParams();
     const { id } = useParams();
-    console.log(papa);
 
     const onCartAdd = () => {
         dispatch(addOrder(product));
